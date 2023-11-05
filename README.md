@@ -14,6 +14,7 @@ This project is a simple Employee Management System built using Spring Boot. It 
 - Spring Boot
 - PostgreSQL
 - MongoDB
+- JUnit (for testing)
 
 ## Project Structure
 The project consists of two main entities:
