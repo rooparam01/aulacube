@@ -80,3 +80,18 @@ Build and run the application:
 - GET /departments/{id} - get department information by departmentId.
 - PUT /departments/{id} - Update department information by departmentId.
 - DELETE /departments/{id} - Delete a department by departmentId.
+
+## Exception Handling
+![Screenshot (890)](https://github.com/rooparam01/employee-department-management-system/assets/111178057/46178e20-4acb-4a52-a005-45643bac69e6)
+
+## Swagger UI
+![Screenshot (893)](https://github.com/rooparam01/employee-department-management-system/assets/111178057/b7b162ff-a1e3-47ec-9bd6-02b85029760f)
+![Screenshot (892)](https://github.com/rooparam01/employee-department-management-system/assets/111178057/f9ab7fa7-a0de-4538-b766-7c34ee6b4e82)
+
+## Unit testing
+![Screenshot (894)](https://github.com/rooparam01/employee-department-management-system/assets/111178057/9cfbc2dd-1644-44f3-ae4e-06b68e3e6aa7)
+![Screenshot (895)](https://github.com/rooparam01/employee-department-management-system/assets/111178057/d3ce3b79-d8ee-484d-9dbc-ac82e5e445ed)
+
+
+
+
