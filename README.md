@@ -85,8 +85,10 @@ Build and run the application:
 ![Screenshot (890)](https://github.com/rooparam01/employee-department-management-system/assets/111178057/46178e20-4acb-4a52-a005-45643bac69e6)
 
 ## Swagger UI
-![Screenshot (893)](https://github.com/rooparam01/employee-department-management-system/assets/111178057/b7b162ff-a1e3-47ec-9bd6-02b85029760f)
+- http://127.0.0.1:8080/swagger-ui/index.html
 ![Screenshot (892)](https://github.com/rooparam01/employee-department-management-system/assets/111178057/f9ab7fa7-a0de-4538-b766-7c34ee6b4e82)
+![Screenshot (893)](https://github.com/rooparam01/employee-department-management-system/assets/111178057/b7b162ff-a1e3-47ec-9bd6-02b85029760f)
+
 
 ## Unit testing
 ![Screenshot (894)](https://github.com/rooparam01/employee-department-management-system/assets/111178057/9cfbc2dd-1644-44f3-ae4e-06b68e3e6aa7)
