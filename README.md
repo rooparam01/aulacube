@@ -5,6 +5,9 @@ This is a simple Employee Management System built using Spring Boot, PostgreSQL,
 ## Overview
 This project is a simple Employee Management System built using Spring Boot. It demonstrates the integration of both PostgreSQL and MongoDB databases for storing employee and department data. The application provides basic CRUD (Create, Read, Update, Delete) operations for employees and departments.
 
+## Video Presentation
+https://drive.google.com/file/d/1J8G8j5To8Dpk4Qi66Hd7uM5klmNopQO2/view?usp=sharing
+
 ## Features
 
 - CRUD operations for employees stored in PostgreSQL.
